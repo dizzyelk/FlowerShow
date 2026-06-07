@@ -1,54 +1,54 @@
-# FlowerShow (花卉展示)
+# FlowerShow
 
-[English](./README_en.md) | **简体中文**
+**English** | [简体中文](./README_zh.md)
 
-🌸 一个基于 Vue 3、TypeScript 和 Element Plus 开发的花卉展示 Web 应用。
+🌸 A flower showcase web application built with Vue 3, TypeScript, and Element Plus.
 
-## 简介
+## Introduction
 
-FlowerShow 是一个前端项目，旨在提供美观、交互性强的花卉展示页面。项目使用了最新的前端技术栈进行开发，包含导航、主页、花卉列表和展示等多个功能模块。
+FlowerShow is a front-end project designed to provide beautiful and highly interactive pages for displaying flowers. The project utilizes a modern front-end technology stack and includes functional modules such as navigation, home page, flower lists, and showcases.
 
-## 技术栈
+## Tech Stack
 
-- **前端框架**: Vue 3 (Composition API)
-- **开发语言**: TypeScript
-- **UI 组件库**: Element Plus
-- **路由管理**: Vue Router
-- **构建工具**: Vite
-- **样式语言**: Sass / SCSS
+- **Framework**: Vue 3 (Composition API)
+- **Language**: TypeScript
+- **UI Library**: Element Plus
+- **Routing**: Vue Router
+- **Build Tool**: Vite
+- **Styling**: Sass / SCSS
 
-## 目录结构
+## Project Structure
 
-- `src/views`: 页面视图组件 (包括 Home, Flowers, Show, Navigation 等)
-- `src/App.vue`: 根组件
-- `vite.config.ts`: Vite 配置文件
+- `src/views`: Page view components (including Home, Flowers, Show, Navigation, etc.)
+- `src/App.vue`: Root component
+- `vite.config.ts`: Vite configuration
 
-## 快速开始
+## Quick Start
 
-### 1. 获取项目
+### 1. Get the Project
 
-下载或克隆本项目到本地。
+Download or clone the project to your local machine.
 
-### 2. 安装依赖
+### 2. Install Dependencies
 
-推荐使用 `npm` 安装依赖：
+It is recommended to use `npm` to install the dependencies:
 
 ```bash
 npm install
 ```
 
-### 3. 运行开发服务器
+### 3. Run Development Server
 
 ```bash
 npm run dev
 ```
 
-### 4. 构建生产版本
+### 4. Build for Production
 
 ```bash
 npm run build
 ```
 
-## 预览
+## Preview
 
-运行开发服务器后，可以通过浏览器访问本地提供的 URL (通常是 `http://localhost:5173`) 来预览项目。
+After starting the development server, you can preview the application by visiting the local URL provided in the terminal (usually `http://localhost:5173`).
